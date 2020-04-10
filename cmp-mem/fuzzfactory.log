@@ -1,0 +1,1156 @@
+DSF update at key=0x004da6, val=30 (0x0000001e); new aggregate: 30 (0x0000001e); earlier was: 0 (0x00000000)
+DSF update at key=0x005296, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 0 (0x00000000)
+DSF update at key=0x005608, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x0062e5, val=30 (0x0000001e); new aggregate: 30 (0x0000001e); earlier was: 0 (0x00000000)
+DSF update at key=0x0064e9, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x0066f4, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 0 (0x00000000)
+DSF update at key=0x006fe1, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 0 (0x00000000)
+DSF update at key=0x006fe2, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 0 (0x00000000)
+DSF update at key=0x006fe3, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 0 (0x00000000)
+DSF update at key=0x006fe4, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 0 (0x00000000)
+DSF update at key=0x00808d, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x00a2c9, val=28 (0x0000001c); new aggregate: 28 (0x0000001c); earlier was: 0 (0x00000000)
+DSF update at key=0x00a2ca, val=28 (0x0000001c); new aggregate: 28 (0x0000001c); earlier was: 0 (0x00000000)
+DSF update at key=0x00a2cb, val=28 (0x0000001c); new aggregate: 28 (0x0000001c); earlier was: 0 (0x00000000)
+DSF update at key=0x00a2cc, val=30 (0x0000001e); new aggregate: 30 (0x0000001e); earlier was: 0 (0x00000000)
+DSF update at key=0x00a2cd, val=31 (0x0000001f); new aggregate: 31 (0x0000001f); earlier was: 0 (0x00000000)
+DSF update at key=0x00a2ce, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x00b018, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 0 (0x00000000)
+DSF update at key=0x00c508, val=64 (0x00000040); new aggregate: 64 (0x00000040); earlier was: 0 (0x00000000)
+DSF update at key=0x00d53f, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 0 (0x00000000)
+DSF update at key=0x00e01f, val=63 (0x0000003f); new aggregate: 63 (0x0000003f); earlier was: 0 (0x00000000)
+DSF update at key=0x00e9a7, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x00eb45, val=30 (0x0000001e); new aggregate: 30 (0x0000001e); earlier was: 0 (0x00000000)
+DSF update at key=0x00f2c7, val=2 (0x00000002); new aggregate: 2 (0x00000002); earlier was: 0 (0x00000000)
+DSF update at key=0x00f2c8, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 0 (0x00000000)
+DSF update at key=0x00f2c9, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 0 (0x00000000)
+DSF update at key=0x00f2ca, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 0 (0x00000000)
+======== Starting Keys ========
+# DSF map 0
+At key 0x004da6, val is 30 (hex=0x0000001e)
+At key 0x005296, val is 3 (hex=0x00000003)
+At key 0x005608, val is 8 (hex=0x00000008)
+At key 0x0062e5, val is 30 (hex=0x0000001e)
+At key 0x0064e9, val is 32 (hex=0x00000020)
+At key 0x0066f4, val is 3 (hex=0x00000003)
+At key 0x006fe1, val is 7 (hex=0x00000007)
+At key 0x006fe2, val is 6 (hex=0x00000006)
+At key 0x006fe3, val is 5 (hex=0x00000005)
+At key 0x006fe4, val is 6 (hex=0x00000006)
+At key 0x00808d, val is 8 (hex=0x00000008)
+At key 0x00a2c9, val is 28 (hex=0x0000001c)
+At key 0x00a2ca, val is 28 (hex=0x0000001c)
+At key 0x00a2cb, val is 28 (hex=0x0000001c)
+At key 0x00a2cc, val is 30 (hex=0x0000001e)
+At key 0x00a2cd, val is 31 (hex=0x0000001f)
+At key 0x00a2ce, val is 32 (hex=0x00000020)
+At key 0x00b018, val is 4 (hex=0x00000004)
+At key 0x00c508, val is 64 (hex=0x00000040)
+At key 0x00d53f, val is 6 (hex=0x00000006)
+At key 0x00e01f, val is 63 (hex=0x0000003f)
+At key 0x00e9a7, val is 32 (hex=0x00000020)
+At key 0x00eb45, val is 30 (hex=0x0000001e)
+At key 0x00f2c7, val is 2 (hex=0x00000002)
+At key 0x00f2c8, val is 5 (hex=0x00000005)
+At key 0x00f2c9, val is 4 (hex=0x00000004)
+At key 0x00f2ca, val is 5 (hex=0x00000005)
+# DSF map 1
+===============Fuzzing test case #0===============
+(Test case is not favored)
+This input is the new top rated entry for key 0x004da6
+This input is the new top rated entry for key 0x005296
+This input is the new top rated entry for key 0x005608
+This input is the new top rated entry for key 0x0062e5
+This input is the new top rated entry for key 0x0064e9
+This input is the new top rated entry for key 0x0066f4
+This input is the new top rated entry for key 0x006fe1
+This input is the new top rated entry for key 0x006fe2
+This input is the new top rated entry for key 0x006fe3
+This input is the new top rated entry for key 0x006fe4
+This input is the new top rated entry for key 0x00808d
+This input is the new top rated entry for key 0x00a2c9
+This input is the new top rated entry for key 0x00a2ca
+This input is the new top rated entry for key 0x00a2cb
+This input is the new top rated entry for key 0x00a2cc
+This input is the new top rated entry for key 0x00a2cd
+This input is the new top rated entry for key 0x00a2ce
+This input is the new top rated entry for key 0x00b018
+This input is the new top rated entry for key 0x00c508
+This input is the new top rated entry for key 0x00d53f
+This input is the new top rated entry for key 0x00e01f
+This input is the new top rated entry for key 0x00e9a7
+This input is the new top rated entry for key 0x00eb45
+This input is the new top rated entry for key 0x00f2c7
+This input is the new top rated entry for key 0x00f2c8
+This input is the new top rated entry for key 0x00f2c9
+This input is the new top rated entry for key 0x00f2ca
+adding cmp-mem/queue/id:000001,src:000000,op:flip1,pos:0,+cov to queue
+DSF update at key=0x0066f4, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 3 (0x00000003)
+DSF update at key=0x00f2c7, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 2 (0x00000002)
+DSF update at key=0x00f2c8, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 5 (0x00000005)
+DSF update at key=0x00f2c9, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 4 (0x00000004)
+DSF update at key=0x00f2ca, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 5 (0x00000005)
+adding cmp-mem/queue/id:000002,src:000000,op:flip1,pos:0,+dsf to queue
+This input is the new top rated entry for key 0x0066f4
+This input is the new top rated entry for key 0x00f2c7
+This input is the new top rated entry for key 0x00f2c8
+This input is the new top rated entry for key 0x00f2c9
+This input is the new top rated entry for key 0x00f2ca
+DSF update at key=0x004307, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x004da6, val=31 (0x0000001f); new aggregate: 31 (0x0000001f); earlier was: 30 (0x0000001e)
+DSF update at key=0x005968, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x008c41, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 0 (0x00000000)
+DSF update at key=0x008c42, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 0 (0x00000000)
+DSF update at key=0x008c43, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 0 (0x00000000)
+DSF update at key=0x008c44, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 0 (0x00000000)
+DSF update at key=0x00955e, val=2 (0x00000002); new aggregate: 2 (0x00000002); earlier was: 0 (0x00000000)
+DSF update at key=0x00955f, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 0 (0x00000000)
+DSF update at key=0x00a2c9, val=29 (0x0000001d); new aggregate: 29 (0x0000001d); earlier was: 28 (0x0000001c)
+DSF update at key=0x00a2cd, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 31 (0x0000001f)
+DSF update at key=0x00eb45, val=31 (0x0000001f); new aggregate: 31 (0x0000001f); earlier was: 30 (0x0000001e)
+adding cmp-mem/queue/id:000003,src:000000,op:flip1,pos:0,+cov,+dsf to queue
+This input is the new top rated entry for key 0x004307
+This input is the new top rated entry for key 0x004da6
+This input is the new top rated entry for key 0x005968
+This input is the new top rated entry for key 0x008c41
+This input is the new top rated entry for key 0x008c42
+This input is the new top rated entry for key 0x008c43
+This input is the new top rated entry for key 0x008c44
+This input is the new top rated entry for key 0x00955e
+This input is the new top rated entry for key 0x00955f
+This input is the new top rated entry for key 0x00a2c9
+This input is the new top rated entry for key 0x00a2cd
+This input is the new top rated entry for key 0x00eb45
+DSF update at key=0x006fe2, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000004,src:000000,op:flip1,pos:1,+dsf to queue
+This input is the new top rated entry for key 0x006fe2
+DSF update at key=0x005296, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 3 (0x00000003)
+DSF update at key=0x00a2c9, val=30 (0x0000001e); new aggregate: 30 (0x0000001e); earlier was: 29 (0x0000001d)
+DSF update at key=0x00a2cb, val=29 (0x0000001d); new aggregate: 29 (0x0000001d); earlier was: 28 (0x0000001c)
+adding cmp-mem/queue/id:000005,src:000000,op:flip1,pos:1,+dsf to queue
+This input is the new top rated entry for key 0x005296
+This input is the new top rated entry for key 0x00a2c9
+This input is the new top rated entry for key 0x00a2cb
+DSF update at key=0x00a2cc, val=31 (0x0000001f); new aggregate: 31 (0x0000001f); earlier was: 30 (0x0000001e)
+DSF update at key=0x00b018, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 4 (0x00000004)
+adding cmp-mem/queue/id:000006,src:000000,op:flip1,pos:1,+dsf to queue
+This input is the new top rated entry for key 0x00a2cc
+This input is the new top rated entry for key 0x00b018
+DSF update at key=0x006fe3, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 5 (0x00000005)
+adding cmp-mem/queue/id:000007,src:000000,op:flip1,pos:1,+dsf to queue
+This input is the new top rated entry for key 0x006fe3
+DSF update at key=0x006fe4, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000008,src:000000,op:flip1,pos:1,+dsf to queue
+This input is the new top rated entry for key 0x006fe4
+DSF update at key=0x00f2c7, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 3 (0x00000003)
+adding cmp-mem/queue/id:000009,src:000000,op:flip2,pos:0,+dsf to queue
+This input is the new top rated entry for key 0x00f2c7
+DSF update at key=0x0066f4, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 4 (0x00000004)
+adding cmp-mem/queue/id:000010,src:000000,op:flip2,pos:0,+dsf to queue
+This input is the new top rated entry for key 0x0066f4
+DSF update at key=0x00a2ca, val=29 (0x0000001d); new aggregate: 29 (0x0000001d); earlier was: 28 (0x0000001c)
+adding cmp-mem/queue/id:000011,src:000000,op:flip2,pos:0,+dsf to queue
+This input is the new top rated entry for key 0x00a2ca
+DSF update at key=0x00f2c9, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 5 (0x00000005)
+adding cmp-mem/queue/id:000012,src:000000,op:flip2,pos:0,+dsf to queue
+This input is the new top rated entry for key 0x00f2c9
+DSF update at key=0x00a2c9, val=31 (0x0000001f); new aggregate: 31 (0x0000001f); earlier was: 30 (0x0000001e)
+DSF update at key=0x00a2cb, val=30 (0x0000001e); new aggregate: 30 (0x0000001e); earlier was: 29 (0x0000001d)
+adding cmp-mem/queue/id:000013,src:000000,op:flip2,pos:1,+dsf to queue
+This input is the new top rated entry for key 0x00a2c9
+This input is the new top rated entry for key 0x00a2cb
+DSF update at key=0x005296, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 4 (0x00000004)
+DSF update at key=0x006fe3, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+DSF update at key=0x00b018, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 5 (0x00000005)
+adding cmp-mem/queue/id:000014,src:000000,op:flip2,pos:1,+dsf to queue
+This input is the new top rated entry for key 0x005296
+This input is the new top rated entry for key 0x006fe3
+This input is the new top rated entry for key 0x00b018
+DSF update at key=0x001d9f, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x003acd, val=29 (0x0000001d); new aggregate: 29 (0x0000001d); earlier was: 0 (0x00000000)
+DSF update at key=0x005af7, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x006fe4, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+DSF update at key=0x00a2cc, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 31 (0x0000001f)
+DSF update at key=0x00c6e9, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x00d884, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 0 (0x00000000)
+DSF update at key=0x00d885, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 0 (0x00000000)
+adding cmp-mem/queue/id:000015,src:000000,op:flip2,pos:1,+cov,+dsf to queue
+This input is the new top rated entry for key 0x001d9f
+This input is the new top rated entry for key 0x003acd
+This input is the new top rated entry for key 0x005af7
+This input is the new top rated entry for key 0x006fe4
+This input is the new top rated entry for key 0x00a2cc
+This input is the new top rated entry for key 0x00c6e9
+This input is the new top rated entry for key 0x00d884
+This input is the new top rated entry for key 0x00d885
+DSF update at key=0x00f2c7, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 4 (0x00000004)
+adding cmp-mem/queue/id:000016,src:000000,op:flip4,pos:0,+dsf to queue
+This input is the new top rated entry for key 0x00f2c7
+DSF update at key=0x00a2cb, val=31 (0x0000001f); new aggregate: 31 (0x0000001f); earlier was: 30 (0x0000001e)
+adding cmp-mem/queue/id:000017,src:000000,op:flip4,pos:0,+dsf to queue
+This input is the new top rated entry for key 0x00a2cb
+DSF update at key=0x00a2ca, val=31 (0x0000001f); new aggregate: 31 (0x0000001f); earlier was: 29 (0x0000001d)
+adding cmp-mem/queue/id:000018,src:000000,op:flip4,pos:0,+dsf to queue
+This input is the new top rated entry for key 0x00a2ca
+DSF update at key=0x001bcd, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 0 (0x00000000)
+DSF update at key=0x004eb9, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x0061ca, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x0062e5, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 30 (0x0000001e)
+DSF update at key=0x007c31, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 0 (0x00000000)
+DSF update at key=0x007c32, val=1 (0x00000001); new aggregate: 1 (0x00000001); earlier was: 0 (0x00000000)
+DSF update at key=0x009cd1, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 0 (0x00000000)
+DSF update at key=0x009cd2, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 0 (0x00000000)
+DSF update at key=0x00d22a, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 0 (0x00000000)
+DSF update at key=0x00d22b, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 0 (0x00000000)
+DSF update at key=0x00d22c, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 0 (0x00000000)
+DSF update at key=0x00d22d, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+adding cmp-mem/queue/id:000019,src:000000,op:flip4,pos:1,+cov,+dsf to queue
+This input is the new top rated entry for key 0x001bcd
+This input is the new top rated entry for key 0x004eb9
+This input is the new top rated entry for key 0x0061ca
+This input is the new top rated entry for key 0x0062e5
+This input is the new top rated entry for key 0x007c31
+This input is the new top rated entry for key 0x007c32
+This input is the new top rated entry for key 0x009cd1
+This input is the new top rated entry for key 0x009cd2
+This input is the new top rated entry for key 0x00d22a
+This input is the new top rated entry for key 0x00d22b
+This input is the new top rated entry for key 0x00d22c
+This input is the new top rated entry for key 0x00d22d
+DSF update at key=0x006fe3, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000020,src:000000,op:flip4,pos:1,+dsf to queue
+This input is the new top rated entry for key 0x006fe3
+DSF update at key=0x0066f4, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 5 (0x00000005)
+DSF update at key=0x00f2c7, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000021,src:000000,op:arith8,pos:0,val:+5,+dsf to queue
+This input is the new top rated entry for key 0x0066f4
+This input is the new top rated entry for key 0x00f2c7
+DSF update at key=0x0006d9, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x00680c, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x00a2cb, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 31 (0x0000001f)
+DSF update at key=0x00a799, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 0 (0x00000000)
+adding cmp-mem/queue/id:000022,src:000000,op:arith8,pos:0,val:+11,+cov,+dsf to queue
+This input is the new top rated entry for key 0x0006d9
+This input is the new top rated entry for key 0x00680c
+This input is the new top rated entry for key 0x00a2cb
+This input is the new top rated entry for key 0x00a799
+DSF update at key=0x00f2c9, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000023,src:000000,op:arith8,pos:0,val:-14,+dsf to queue
+This input is the new top rated entry for key 0x00f2c9
+DSF update at key=0x00f2c8, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000024,src:000000,op:arith8,pos:0,val:-17,+dsf to queue
+This input is the new top rated entry for key 0x00f2c8
+DSF update at key=0x00b018, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000025,src:000000,op:arith8,pos:0,val:+18,+dsf to queue
+This input is the new top rated entry for key 0x00b018
+DSF update at key=0x00f2ca, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000026,src:000000,op:arith8,pos:0,val:-18,+dsf to queue
+This input is the new top rated entry for key 0x00f2ca
+DSF update at key=0x00611f, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x0077c8, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x00a2c9, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 31 (0x0000001f)
+DSF update at key=0x00eb1e, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 0 (0x00000000)
+adding cmp-mem/queue/id:000027,src:000000,op:arith8,pos:0,val:+19,+cov,+dsf to queue
+This input is the new top rated entry for key 0x00611f
+This input is the new top rated entry for key 0x0077c8
+This input is the new top rated entry for key 0x00a2c9
+This input is the new top rated entry for key 0x00eb1e
+DSF update at key=0x00d53f, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000028,src:000000,op:arith8,pos:0,val:+21,+dsf to queue
+This input is the new top rated entry for key 0x00d53f
+DSF update at key=0x0038f9, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x004737, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 0 (0x00000000)
+DSF update at key=0x0069f7, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x00a2ca, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 31 (0x0000001f)
+adding cmp-mem/queue/id:000029,src:000000,op:arith8,pos:0,val:+25,+cov,+dsf to queue
+This input is the new top rated entry for key 0x0038f9
+This input is the new top rated entry for key 0x004737
+This input is the new top rated entry for key 0x0069f7
+This input is the new top rated entry for key 0x00a2ca
+DSF update at key=0x0066f4, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000030,src:000000,op:arith8,pos:0,val:-27,+dsf to queue
+This input is the new top rated entry for key 0x0066f4
+DSF update at key=0x004da6, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 31 (0x0000001f)
+DSF update at key=0x00c409, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 0 (0x00000000)
+DSF update at key=0x00cfa0, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 0 (0x00000000)
+DSF update at key=0x00cfa1, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 0 (0x00000000)
+DSF update at key=0x00cfa2, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 0 (0x00000000)
+DSF update at key=0x00cfa3, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 0 (0x00000000)
+DSF update at key=0x00eb45, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 31 (0x0000001f)
+DSF update at key=0x00ffaa, val=64 (0x00000040); new aggregate: 64 (0x00000040); earlier was: 0 (0x00000000)
+adding cmp-mem/queue/id:000031,src:000000,op:arith8,pos:0,val:-34,+cov,+dsf to queue
+This input is the new top rated entry for key 0x004da6
+This input is the new top rated entry for key 0x00c409
+This input is the new top rated entry for key 0x00cfa0
+This input is the new top rated entry for key 0x00cfa1
+This input is the new top rated entry for key 0x00cfa2
+This input is the new top rated entry for key 0x00cfa3
+This input is the new top rated entry for key 0x00eb45
+This input is the new top rated entry for key 0x00ffaa
+DSF update at key=0x005296, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 5 (0x00000005)
+adding cmp-mem/queue/id:000032,src:000000,op:arith8,pos:1,val:+11,+dsf to queue
+This input is the new top rated entry for key 0x005296
+DSF update at key=0x005296, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000033,src:000000,op:arith8,pos:1,val:+19,+dsf to queue
+This input is the new top rated entry for key 0x005296
+DSF update at key=0x006fe1, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000034,src:000000,op:arith8,pos:1,val:+22,+dsf to queue
+This input is the new top rated entry for key 0x006fe1
+DSF update at key=0x003acd, val=30 (0x0000001e); new aggregate: 30 (0x0000001e); earlier was: 29 (0x0000001d)
+adding cmp-mem/queue/id:000035,src:000000,op:arith8,pos:1,val:+24,+cov,+dsf to queue
+This input is the new top rated entry for key 0x003acd
+DSF update at key=0x00b018, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000036,src:000000,op:arith8,pos:1,val:+35,+dsf to queue
+This input is the new top rated entry for key 0x00b018
+DSF update at key=0x0066f4, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000037,src:000000,op:int8,pos:0,val:+0,+cov,+dsf to queue
+This input is the new top rated entry for key 0x0066f4
+DSF update at key=0x00f2c7, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000038,src:000000,op:int8,pos:0,val:+32,+cov,+dsf to queue
+This input is the new top rated entry for key 0x00f2c7
+adding cmp-mem/queue/id:000039,src:000000,op:havoc,rep:32,+cov to queue
+DSF update at key=0x00eb1e, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 3 (0x00000003)
+adding cmp-mem/queue/id:000040,src:000000,op:havoc,rep:16,+dsf to queue
+This input is the new top rated entry for key 0x00eb1e
+DSF update at key=0x000700, val=63 (0x0000003f); new aggregate: 63 (0x0000003f); earlier was: 0 (0x00000000)
+adding cmp-mem/queue/id:000041,src:000000,op:havoc,rep:8,+cov,+dsf to queue
+This input is the new top rated entry for key 0x000700
+DSF update at key=0x003acd, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 30 (0x0000001e)
+DSF update at key=0x00d885, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 6 (0x00000006)
+DSF update at key=0x00f7f4, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+adding cmp-mem/queue/id:000042,src:000000,op:havoc,rep:4,+cov,+dsf to queue
+This input is the new top rated entry for key 0x003acd
+This input is the new top rated entry for key 0x00d885
+This input is the new top rated entry for key 0x00f7f4
+adding cmp-mem/queue/id:000043,src:000000,op:havoc,rep:128 to queue
+adding cmp-mem/queue/id:000044,src:000000,op:havoc,rep:16 to queue
+DSF update at key=0x007c32, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 1 (0x00000001)
+adding cmp-mem/queue/id:000045,src:000000,op:havoc,rep:8,+dsf to queue
+This input is the new top rated entry for key 0x007c32
+DSF update at key=0x001bcd, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 4 (0x00000004)
+DSF update at key=0x009cd1, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 4 (0x00000004)
+adding cmp-mem/queue/id:000046,src:000000,op:havoc,rep:128,+cov,+dsf to queue
+This input is the new top rated entry for key 0x001bcd
+This input is the new top rated entry for key 0x009cd1
+DSF update at key=0x00f2ca, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000047,src:000000,op:havoc,rep:4,+dsf to queue
+This input is the new top rated entry for key 0x00f2ca
+DSF update at key=0x003dfc, val=13 (0x0000000d); new aggregate: 13 (0x0000000d); earlier was: 0 (0x00000000)
+DSF update at key=0x0049d8, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x009cd1, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 5 (0x00000005)
+DSF update at key=0x009cd2, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 5 (0x00000005)
+DSF update at key=0x00da74, val=30 (0x0000001e); new aggregate: 30 (0x0000001e); earlier was: 0 (0x00000000)
+adding cmp-mem/queue/id:000048,src:000000,op:havoc,rep:64,+cov,+dsf to queue
+This input is the new top rated entry for key 0x003dfc
+This input is the new top rated entry for key 0x0049d8
+This input is the new top rated entry for key 0x009cd1
+This input is the new top rated entry for key 0x009cd2
+This input is the new top rated entry for key 0x00da74
+DSF update at key=0x00955e, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 2 (0x00000002)
+adding cmp-mem/queue/id:000049,src:000000,op:havoc,rep:64,+dsf to queue
+This input is the new top rated entry for key 0x00955e
+DSF update at key=0x008c42, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000050,src:000000,op:havoc,rep:4,+dsf to queue
+This input is the new top rated entry for key 0x008c42
+DSF update at key=0x00cfa0, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000051,src:000000,op:havoc,rep:128,+cov,+dsf to queue
+This input is the new top rated entry for key 0x00cfa0
+adding cmp-mem/queue/id:000052,src:000000,op:havoc,rep:64 to queue
+adding cmp-mem/queue/id:000053,src:000000,op:havoc,rep:8 to queue
+DSF update at key=0x00d53f, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000054,src:000000,op:havoc,rep:32,+cov,+dsf to queue
+This input is the new top rated entry for key 0x00d53f
+DSF update at key=0x00f2c9, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000055,src:000000,op:havoc,rep:16,+dsf to queue
+This input is the new top rated entry for key 0x00f2c9
+DSF update at key=0x005296, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+DSF update at key=0x00cfa1, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+DSF update at key=0x00cfa2, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 5 (0x00000005)
+DSF update at key=0x00cfa3, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000056,src:000000,op:havoc,rep:16,+cov,+dsf to queue
+This input is the new top rated entry for key 0x005296
+This input is the new top rated entry for key 0x00cfa1
+This input is the new top rated entry for key 0x00cfa2
+This input is the new top rated entry for key 0x00cfa3
+DSF update at key=0x003dfc, val=19 (0x00000013); new aggregate: 19 (0x00000013); earlier was: 13 (0x0000000d)
+DSF update at key=0x009cd2, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+DSF update at key=0x00da74, val=36 (0x00000024); new aggregate: 36 (0x00000024); earlier was: 30 (0x0000001e)
+adding cmp-mem/queue/id:000057,src:000000,op:havoc,rep:16,+dsf to queue
+This input is the new top rated entry for key 0x003dfc
+This input is the new top rated entry for key 0x009cd2
+This input is the new top rated entry for key 0x00da74
+adding cmp-mem/queue/id:000058,src:000000,op:havoc,rep:4 to queue
+adding cmp-mem/queue/id:000059,src:000000,op:havoc,rep:128 to queue
+adding cmp-mem/queue/id:000060,src:000000,op:havoc,rep:32 to queue
+DSF update at key=0x001bcd, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 5 (0x00000005)
+adding cmp-mem/queue/id:000061,src:000000,op:havoc,rep:128,+dsf to queue
+This input is the new top rated entry for key 0x001bcd
+DSF update at key=0x00d884, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 4 (0x00000004)
+adding cmp-mem/queue/id:000062,src:000000,op:havoc,rep:8,+dsf to queue
+This input is the new top rated entry for key 0x00d884
+DSF update at key=0x007c31, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 5 (0x00000005)
+adding cmp-mem/queue/id:000063,src:000000,op:havoc,rep:8,+dsf to queue
+This input is the new top rated entry for key 0x007c31
+DSF update at key=0x001bcd, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000064,src:000000,op:havoc,rep:64,+dsf to queue
+This input is the new top rated entry for key 0x001bcd
+DSF update at key=0x003dfc, val=22 (0x00000016); new aggregate: 22 (0x00000016); earlier was: 19 (0x00000013)
+adding cmp-mem/queue/id:000065,src:000000,op:havoc,rep:128,+dsf to queue
+This input is the new top rated entry for key 0x003dfc
+adding cmp-mem/queue/id:000066,src:000000,op:havoc,rep:16 to queue
+adding cmp-mem/queue/id:000067,src:000000,op:havoc,rep:64,+cov to queue
+adding cmp-mem/queue/id:000068,src:000000,op:havoc,rep:64,+cov to queue
+adding cmp-mem/queue/id:000069,src:000000,op:havoc,rep:64 to queue
+adding cmp-mem/queue/id:000070,src:000000,op:havoc,rep:4 to queue
+adding cmp-mem/queue/id:000071,src:000000,op:havoc,rep:64 to queue
+adding cmp-mem/queue/id:000072,src:000000,op:havoc,rep:32 to queue
+DSF update at key=0x00da74, val=37 (0x00000025); new aggregate: 37 (0x00000025); earlier was: 36 (0x00000024)
+adding cmp-mem/queue/id:000073,src:000000,op:havoc,rep:128,+dsf to queue
+This input is the new top rated entry for key 0x00da74
+adding cmp-mem/queue/id:000074,src:000000,op:havoc,rep:128 to queue
+adding cmp-mem/queue/id:000075,src:000000,op:havoc,rep:16,+cov to queue
+DSF update at key=0x00a799, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 5 (0x00000005)
+adding cmp-mem/queue/id:000076,src:000000,op:havoc,rep:64,+dsf to queue
+This input is the new top rated entry for key 0x00a799
+DSF update at key=0x007c32, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 3 (0x00000003)
+adding cmp-mem/queue/id:000077,src:000000,op:havoc,rep:16,+dsf to queue
+This input is the new top rated entry for key 0x007c32
+adding cmp-mem/queue/id:000078,src:000000,op:havoc,rep:2 to queue
+adding cmp-mem/queue/id:000079,src:000000,op:havoc,rep:64 to queue
+adding cmp-mem/queue/id:000080,src:000000,op:havoc,rep:128 to queue
+adding cmp-mem/queue/id:000081,src:000000,op:havoc,rep:32 to queue
+DSF update at key=0x004737, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 4 (0x00000004)
+adding cmp-mem/queue/id:000082,src:000000,op:havoc,rep:2,+dsf to queue
+This input is the new top rated entry for key 0x004737
+adding cmp-mem/queue/id:000083,src:000000,op:havoc,rep:4,+cov to queue
+adding cmp-mem/queue/id:000084,src:000000,op:havoc,rep:2 to queue
+DSF update at key=0x00cfa2, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+DSF update at key=0x00cfa3, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000085,src:000000,op:havoc,rep:4,+dsf to queue
+This input is the new top rated entry for key 0x00cfa2
+This input is the new top rated entry for key 0x00cfa3
+DSF update at key=0x00955f, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000086,src:000000,op:havoc,rep:4,+dsf to queue
+This input is the new top rated entry for key 0x00955f
+adding cmp-mem/queue/id:000087,src:000000,op:havoc,rep:128 to queue
+adding cmp-mem/queue/id:000088,src:000000,op:havoc,rep:32 to queue
+adding cmp-mem/queue/id:000089,src:000000,op:havoc,rep:128 to queue
+adding cmp-mem/queue/id:000090,src:000000,op:havoc,rep:64 to queue
+adding cmp-mem/queue/id:000091,src:000000,op:havoc,rep:8 to queue
+adding cmp-mem/queue/id:000092,src:000000,op:havoc,rep:16 to queue
+adding cmp-mem/queue/id:000093,src:000000,op:havoc,rep:4 to queue
+DSF update at key=0x008c43, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 5 (0x00000005)
+adding cmp-mem/queue/id:000094,src:000000,op:havoc,rep:4,+dsf to queue
+This input is the new top rated entry for key 0x008c43
+DSF update at key=0x00d884, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 5 (0x00000005)
+adding cmp-mem/queue/id:000095,src:000000,op:havoc,rep:16,+dsf to queue
+This input is the new top rated entry for key 0x00d884
+DSF update at key=0x00115d, val=64 (0x00000040); new aggregate: 64 (0x00000040); earlier was: 0 (0x00000000)
+DSF update at key=0x004edd, val=25 (0x00000019); new aggregate: 25 (0x00000019); earlier was: 0 (0x00000000)
+DSF update at key=0x0078a6, val=61 (0x0000003d); new aggregate: 61 (0x0000003d); earlier was: 0 (0x00000000)
+DSF update at key=0x010208, val=65560 (0x00010018); new aggregate: 65560 (0x00010018); earlier was: 0 (0x00000000)
+adding cmp-mem/queue/id:000096,src:000000,op:havoc,rep:8,+cov,+dsf to queue
+This input is the new top rated entry for key 0x00115d
+This input is the new top rated entry for key 0x004edd
+This input is the new top rated entry for key 0x0078a6
+This input is the new top rated entry for key 0x010208
+adding cmp-mem/queue/id:000097,src:000000,op:havoc,rep:128 to queue
+DSF update at key=0x00d22a, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000098,src:000000,op:havoc,rep:2,+dsf to queue
+This input is the new top rated entry for key 0x00d22a
+adding cmp-mem/queue/id:000099,src:000000,op:havoc,rep:128 to queue
+adding cmp-mem/queue/id:000100,src:000000,op:havoc,rep:8 to queue
+adding cmp-mem/queue/id:000101,src:000000,op:havoc,rep:2 to queue
+adding cmp-mem/queue/id:000102,src:000000,op:havoc,rep:2 to queue
+DSF update at key=0x0004d9, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x007782, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x00955f, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+DSF update at key=0x0098a5, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 0 (0x00000000)
+DSF update at key=0x00d15b, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x00f6e5, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 0 (0x00000000)
+DSF update at key=0x00f6e6, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 0 (0x00000000)
+DSF update at key=0x00f6e7, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 0 (0x00000000)
+DSF update at key=0x00f6e8, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 0 (0x00000000)
+adding cmp-mem/queue/id:000103,src:000000,op:havoc,rep:64,+cov,+dsf to queue
+This input is the new top rated entry for key 0x0004d9
+This input is the new top rated entry for key 0x007782
+This input is the new top rated entry for key 0x00955f
+This input is the new top rated entry for key 0x0098a5
+This input is the new top rated entry for key 0x00d15b
+This input is the new top rated entry for key 0x00f6e5
+This input is the new top rated entry for key 0x00f6e6
+This input is the new top rated entry for key 0x00f6e7
+This input is the new top rated entry for key 0x00f6e8
+adding cmp-mem/queue/id:000104,src:000000,op:havoc,rep:128 to queue
+adding cmp-mem/queue/id:000105,src:000000,op:havoc,rep:32 to queue
+DSF update at key=0x008c44, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000106,src:000000,op:havoc,rep:2,+dsf to queue
+This input is the new top rated entry for key 0x008c44
+DSF update at key=0x00cfa2, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000107,src:000000,op:havoc,rep:128,+dsf to queue
+This input is the new top rated entry for key 0x00cfa2
+adding cmp-mem/queue/id:000108,src:000000,op:havoc,rep:8 to queue
+adding cmp-mem/queue/id:000109,src:000000,op:havoc,rep:128 to queue
+adding cmp-mem/queue/id:000110,src:000000,op:havoc,rep:2 to queue
+DSF update at key=0x00955e, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000111,src:000000,op:havoc,rep:16,+dsf to queue
+This input is the new top rated entry for key 0x00955e
+adding cmp-mem/queue/id:000112,src:000000,op:havoc,rep:32 to queue
+adding cmp-mem/queue/id:000113,src:000000,op:havoc,rep:64 to queue
+DSF update at key=0x00d884, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000114,src:000000,op:havoc,rep:16,+dsf to queue
+This input is the new top rated entry for key 0x00d884
+DSF update at key=0x000ed3, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 0 (0x00000000)
+DSF update at key=0x001f49, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x0022be, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 0 (0x00000000)
+DSF update at key=0x009cd2, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+DSF update at key=0x00baa1, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 0 (0x00000000)
+adding cmp-mem/queue/id:000115,src:000000,op:havoc,rep:4,+cov,+dsf to queue
+This input is the new top rated entry for key 0x000ed3
+This input is the new top rated entry for key 0x001f49
+This input is the new top rated entry for key 0x0022be
+This input is the new top rated entry for key 0x009cd2
+This input is the new top rated entry for key 0x00baa1
+adding cmp-mem/queue/id:000116,src:000000,op:havoc,rep:128 to queue
+DSF update at key=0x008c41, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000117,src:000000,op:havoc,rep:4,+cov,+dsf to queue
+This input is the new top rated entry for key 0x008c41
+adding cmp-mem/queue/id:000118,src:000000,op:havoc,rep:8 to queue
+adding cmp-mem/queue/id:000119,src:000000,op:havoc,rep:16 to queue
+adding cmp-mem/queue/id:000120,src:000000,op:havoc,rep:32 to queue
+DSF update at key=0x009cd1, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+DSF update at key=0x00baa1, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000121,src:000000,op:havoc,rep:128,+cov,+dsf to queue
+This input is the new top rated entry for key 0x009cd1
+This input is the new top rated entry for key 0x00baa1
+adding cmp-mem/queue/id:000122,src:000000,op:havoc,rep:32 to queue
+DSF update at key=0x00afd9, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 0 (0x00000000)
+DSF update at key=0x00d884, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000123,src:000000,op:havoc,rep:64,+cov,+dsf to queue
+This input is the new top rated entry for key 0x00afd9
+This input is the new top rated entry for key 0x00d884
+DSF update at key=0x00d22b, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000124,src:000000,op:havoc,rep:8,+dsf to queue
+This input is the new top rated entry for key 0x00d22b
+adding cmp-mem/queue/id:000125,src:000000,op:havoc,rep:64 to queue
+DSF update at key=0x0034f2, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 0 (0x00000000)
+DSF update at key=0x005ed1, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x00afd9, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000126,src:000000,op:havoc,rep:4,+cov,+dsf to queue
+This input is the new top rated entry for key 0x0034f2
+This input is the new top rated entry for key 0x005ed1
+This input is the new top rated entry for key 0x00afd9
+adding cmp-mem/queue/id:000127,src:000000,op:havoc,rep:32 to queue
+DSF update at key=0x008c43, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+DSF update at key=0x008c44, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000128,src:000000,op:havoc,rep:8,+dsf to queue
+This input is the new top rated entry for key 0x008c43
+This input is the new top rated entry for key 0x008c44
+adding cmp-mem/queue/id:000129,src:000000,op:havoc,rep:64 to queue
+adding cmp-mem/queue/id:000130,src:000000,op:havoc,rep:64 to queue
+adding cmp-mem/queue/id:000131,src:000000,op:havoc,rep:128 to queue
+adding cmp-mem/queue/id:000132,src:000000,op:havoc,rep:128 to queue
+===============Fuzzing test case #3===============
+adding cmp-mem/queue/id:000133,src:000003,op:flip2,pos:1,+cov to queue
+DSF update at key=0x008c43, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000134,src:000003,op:flip4,pos:1,+dsf to queue
+This input is the new top rated entry for key 0x008c43
+adding cmp-mem/queue/id:000135,src:000003,op:havoc,rep:128,+cov to queue
+adding cmp-mem/queue/id:000136,src:000003,op:havoc,rep:8 to queue
+DSF update at key=0x00f6e7, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 3 (0x00000003)
+DSF update at key=0x00f6e8, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 4 (0x00000004)
+adding cmp-mem/queue/id:000137,src:000003,op:havoc,rep:2,+dsf to queue
+This input is the new top rated entry for key 0x00f6e7
+This input is the new top rated entry for key 0x00f6e8
+adding cmp-mem/queue/id:000138,src:000003,op:havoc,rep:128 to queue
+DSF update at key=0x000d9b, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x001bcd, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000139,src:000003,op:havoc,rep:64,+cov,+dsf to queue
+This input is the new top rated entry for key 0x000d9b
+This input is the new top rated entry for key 0x001bcd
+DSF update at key=0x000ed3, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 5 (0x00000005)
+DSF update at key=0x0090c4, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+adding cmp-mem/queue/id:000140,src:000003,op:havoc,rep:64,+cov,+dsf to queue
+This input is the new top rated entry for key 0x000ed3
+This input is the new top rated entry for key 0x0090c4
+adding cmp-mem/queue/id:000141,src:000003,op:havoc,rep:16 to queue
+adding cmp-mem/queue/id:000142,src:000003,op:havoc,rep:16 to queue
+adding cmp-mem/queue/id:000143,src:000003,op:havoc,rep:16 to queue
+DSF update at key=0x004edd, val=28 (0x0000001c); new aggregate: 28 (0x0000001c); earlier was: 25 (0x00000019)
+adding cmp-mem/queue/id:000144,src:000003,op:havoc,rep:32,+dsf to queue
+This input is the new top rated entry for key 0x004edd
+adding cmp-mem/queue/id:000145,src:000003,op:havoc,rep:16 to queue
+adding cmp-mem/queue/id:000146,src:000003,op:havoc,rep:128 to queue
+DSF update at key=0x004737, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000147,src:000003,op:havoc,rep:128,+dsf to queue
+This input is the new top rated entry for key 0x004737
+DSF update at key=0x00955e, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000148,src:000003,op:havoc,rep:4,+cov,+dsf to queue
+This input is the new top rated entry for key 0x00955e
+adding cmp-mem/queue/id:000149,src:000003,op:havoc,rep:4 to queue
+===============Fuzzing test case #4===============
+===============Fuzzing test case #15===============
+===============Fuzzing test case #19===============
+DSF update at key=0x00d22c, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000150,src:000019,op:flip1,pos:2,+dsf to queue
+This input is the new top rated entry for key 0x00d22c
+DSF update at key=0x007c32, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000151,src:000019,op:flip8,pos:3,+dsf to queue
+This input is the new top rated entry for key 0x007c32
+DSF update at key=0x007c31, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+DSF update at key=0x00a30d, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 0 (0x00000000)
+DSF update at key=0x00a30e, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 0 (0x00000000)
+DSF update at key=0x00a30f, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 0 (0x00000000)
+DSF update at key=0x00a310, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 0 (0x00000000)
+DSF update at key=0x00eaf0, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x00f40a, val=29 (0x0000001d); new aggregate: 29 (0x0000001d); earlier was: 0 (0x00000000)
+adding cmp-mem/queue/id:000152,src:000019,op:arith8,pos:2,val:+35,+cov,+dsf to queue
+This input is the new top rated entry for key 0x007c31
+This input is the new top rated entry for key 0x00a30d
+This input is the new top rated entry for key 0x00a30e
+This input is the new top rated entry for key 0x00a30f
+This input is the new top rated entry for key 0x00a310
+This input is the new top rated entry for key 0x00eaf0
+This input is the new top rated entry for key 0x00f40a
+DSF update at key=0x00a30f, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 3 (0x00000003)
+DSF update at key=0x00a310, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 4 (0x00000004)
+DSF update at key=0x00f40a, val=30 (0x0000001e); new aggregate: 30 (0x0000001e); earlier was: 29 (0x0000001d)
+adding cmp-mem/queue/id:000153,src:000019,op:arith8,pos:3,val:+10,+dsf to queue
+This input is the new top rated entry for key 0x00a30f
+This input is the new top rated entry for key 0x00a310
+This input is the new top rated entry for key 0x00f40a
+adding cmp-mem/queue/id:000154,src:000019,op:havoc,rep:4 to queue
+adding cmp-mem/queue/id:000155,src:000019,op:havoc,rep:128,+cov to queue
+adding cmp-mem/queue/id:000156,src:000019,op:havoc,rep:16 to queue
+adding cmp-mem/queue/id:000157,src:000019,op:havoc,rep:32 to queue
+adding cmp-mem/queue/id:000158,src:000019,op:havoc,rep:16 to queue
+adding cmp-mem/queue/id:000159,src:000019,op:havoc,rep:2,+cov to queue
+DSF update at key=0x007c32, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+DSF update at key=0x0095be, val=31 (0x0000001f); new aggregate: 31 (0x0000001f); earlier was: 0 (0x00000000)
+DSF update at key=0x00b6fc, val=61 (0x0000003d); new aggregate: 61 (0x0000003d); earlier was: 0 (0x00000000)
+DSF update at key=0x010372, val=65560 (0x00010018); new aggregate: 65560 (0x00010018); earlier was: 0 (0x00000000)
+adding cmp-mem/queue/id:000160,src:000019,op:havoc,rep:2,+cov,+dsf to queue
+This input is the new top rated entry for key 0x007c32
+This input is the new top rated entry for key 0x0095be
+This input is the new top rated entry for key 0x00b6fc
+This input is the new top rated entry for key 0x010372
+adding cmp-mem/queue/id:000161,src:000019,op:havoc,rep:64 to queue
+adding cmp-mem/queue/id:000162,src:000019,op:havoc,rep:4 to queue
+adding cmp-mem/queue/id:000163,src:000019,op:havoc,rep:64 to queue
+adding cmp-mem/queue/id:000164,src:000019,op:havoc,rep:16 to queue
+DSF update at key=0x00a799, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 6 (0x00000006)
+DSF update at key=0x00c447, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 0 (0x00000000)
+adding cmp-mem/queue/id:000165,src:000019,op:havoc,rep:8,+cov,+dsf to queue
+This input is the new top rated entry for key 0x00a799
+This input is the new top rated entry for key 0x00c447
+DSF update at key=0x00f40a, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 30 (0x0000001e)
+adding cmp-mem/queue/id:000166,src:000019,op:havoc,rep:2,+cov,+dsf to queue
+This input is the new top rated entry for key 0x00f40a
+DSF update at key=0x0022be, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 5 (0x00000005)
+adding cmp-mem/queue/id:000167,src:000019,op:havoc,rep:2,+dsf to queue
+This input is the new top rated entry for key 0x0022be
+===============Fuzzing test case #20===============
+===============Fuzzing test case #22===============
+===============Fuzzing test case #24===============
+DSF update at key=0x004edd, val=29 (0x0000001d); new aggregate: 29 (0x0000001d); earlier was: 28 (0x0000001c)
+adding cmp-mem/queue/id:000168,src:000024,op:havoc,rep:32,+dsf to queue
+This input is the new top rated entry for key 0x004edd
+===============Fuzzing test case #27===============
+===============Fuzzing test case #29===============
+DSF update at key=0x004737, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+DSF update at key=0x00edc8, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 0 (0x00000000)
+adding cmp-mem/queue/id:000169,src:000029,op:flip4,pos:1,+cov,+dsf to queue
+This input is the new top rated entry for key 0x004737
+This input is the new top rated entry for key 0x00edc8
+===============Fuzzing test case #31===============
+adding cmp-mem/queue/id:000170,src:000031,op:havoc,rep:4 to queue
+===============Fuzzing test case #34===============
+===============Fuzzing test case #36===============
+===============Fuzzing test case #37===============
+===============Fuzzing test case #38===============
+===============Fuzzing test case #40===============
+DSF update at key=0x00d7ba, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 0 (0x00000000)
+DSF update at key=0x00eb1e, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000171,src:000040,op:flip1,pos:1,+cov,+dsf to queue
+This input is the new top rated entry for key 0x00d7ba
+This input is the new top rated entry for key 0x00eb1e
+===============Fuzzing test case #41===============
+===============Fuzzing test case #42===============
+===============Fuzzing test case #47===============
+===============Fuzzing test case #48===============
+adding cmp-mem/queue/id:000172,src:000048,op:flip1,pos:405,+cov to queue
+DSF update at key=0x0025c2, val=33 (0x00000021); new aggregate: 33 (0x00000021); earlier was: 0 (0x00000000)
+DSF update at key=0x006218, val=16 (0x00000010); new aggregate: 16 (0x00000010); earlier was: 0 (0x00000000)
+adding cmp-mem/queue/id:000173,src:000048,op:flip4,pos:0,+cov,+dsf to queue
+This input is the new top rated entry for key 0x0025c2
+This input is the new top rated entry for key 0x006218
+DSF update at key=0x007e68, val=62 (0x0000003e); new aggregate: 62 (0x0000003e); earlier was: 0 (0x00000000)
+adding cmp-mem/queue/id:000174,src:000048,op:arith8,pos:1,val:-5,+cov,+dsf to queue
+This input is the new top rated entry for key 0x007e68
+DSF update at key=0x003dfc, val=23 (0x00000017); new aggregate: 23 (0x00000017); earlier was: 22 (0x00000016)
+adding cmp-mem/queue/id:000175,src:000048,op:arith8,pos:2,val:+5,+dsf to queue
+This input is the new top rated entry for key 0x003dfc
+adding cmp-mem/queue/id:000176,src:000048,op:arith8,pos:2,val:-5 to queue
+adding cmp-mem/queue/id:000177,src:000048,op:arith8,pos:10,val:-5 to queue
+adding cmp-mem/queue/id:000178,src:000048,op:arith8,pos:14,val:-5 to queue
+adding cmp-mem/queue/id:000179,src:000048,op:arith8,pos:15,val:-5 to queue
+adding cmp-mem/queue/id:000180,src:000048,op:arith8,pos:16,val:-5 to queue
+adding cmp-mem/queue/id:000181,src:000048,op:arith8,pos:20,val:-5 to queue
+adding cmp-mem/queue/id:000182,src:000048,op:arith8,pos:21,val:-5 to queue
+adding cmp-mem/queue/id:000183,src:000048,op:arith8,pos:116,val:-5 to queue
+adding cmp-mem/queue/id:000184,src:000048,op:arith8,pos:117,val:-5 to queue
+adding cmp-mem/queue/id:000185,src:000048,op:arith8,pos:140,val:-5 to queue
+adding cmp-mem/queue/id:000186,src:000048,op:arith8,pos:141,val:-5 to queue
+adding cmp-mem/queue/id:000187,src:000048,op:arith8,pos:144,val:-5 to queue
+adding cmp-mem/queue/id:000188,src:000048,op:arith8,pos:145,val:-5 to queue
+adding cmp-mem/queue/id:000189,src:000048,op:arith8,pos:146,val:-5 to queue
+adding cmp-mem/queue/id:000190,src:000048,op:arith8,pos:147,val:-5 to queue
+DSF update at key=0x000ed3, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000191,src:000048,op:arith8,pos:404,val:+18,+dsf to queue
+This input is the new top rated entry for key 0x000ed3
+===============Fuzzing test case #50===============
+===============Fuzzing test case #51===============
+===============Fuzzing test case #54===============
+DSF update at key=0x007e68, val=64 (0x00000040); new aggregate: 64 (0x00000040); earlier was: 62 (0x0000003e)
+adding cmp-mem/queue/id:000192,src:000054,op:flip4,pos:1,+cov,+dsf to queue
+This input is the new top rated entry for key 0x007e68
+adding cmp-mem/queue/id:000193,src:000054,op:arith8,pos:1,val:+21 to queue
+===============Fuzzing test case #55===============
+===============Fuzzing test case #56===============
+===============Fuzzing test case #73===============
+DSF update at key=0x00da74, val=38 (0x00000026); new aggregate: 38 (0x00000026); earlier was: 37 (0x00000025)
+adding cmp-mem/queue/id:000194,src:000073,op:flip1,pos:1,+dsf to queue
+This input is the new top rated entry for key 0x00da74
+DSF update at key=0x00da74, val=39 (0x00000027); new aggregate: 39 (0x00000027); earlier was: 38 (0x00000026)
+adding cmp-mem/queue/id:000195,src:000073,op:flip1,pos:4,+dsf to queue
+This input is the new top rated entry for key 0x00da74
+DSF update at key=0x00da74, val=44 (0x0000002c); new aggregate: 44 (0x0000002c); earlier was: 39 (0x00000027)
+adding cmp-mem/queue/id:000196,src:000073,op:flip1,pos:9,+dsf to queue
+This input is the new top rated entry for key 0x00da74
+===============Fuzzing test case #83===============
+(Test case is not favored)
+DSF update at key=0x0034f2, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 3 (0x00000003)
+adding cmp-mem/queue/id:000197,src:000083,op:arith8,pos:3,val:+1,+dsf to queue
+This input is the new top rated entry for key 0x0034f2
+DSF update at key=0x004edd, val=30 (0x0000001e); new aggregate: 30 (0x0000001e); earlier was: 29 (0x0000001d)
+adding cmp-mem/queue/id:000198,src:000083,op:havoc,rep:64,+dsf to queue
+This input is the new top rated entry for key 0x004edd
+adding cmp-mem/queue/id:000199,src:000083,op:havoc,rep:32 to queue
+DSF update at key=0x0034f2, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 4 (0x00000004)
+adding cmp-mem/queue/id:000200,src:000083,op:havoc,rep:64,+dsf to queue
+This input is the new top rated entry for key 0x0034f2
+adding cmp-mem/queue/id:000201,src:000083,op:havoc,rep:32,+cov to queue
+DSF update at key=0x004edd, val=31 (0x0000001f); new aggregate: 31 (0x0000001f); earlier was: 30 (0x0000001e)
+adding cmp-mem/queue/id:000202,src:000083,op:havoc,rep:128,+dsf to queue
+This input is the new top rated entry for key 0x004edd
+adding cmp-mem/queue/id:000203,src:000083,op:havoc,rep:32 to queue
+adding cmp-mem/queue/id:000204,src:000083,op:havoc,rep:64 to queue
+adding cmp-mem/queue/id:000205,src:000083,op:havoc,rep:64 to queue
+===============Fuzzing test case #85===============
+===============Fuzzing test case #96===============
+DSF update at key=0x010208, val=81192 (0x00013d28); new aggregate: 81192 (0x00013d28); earlier was: 65560 (0x00010018)
+adding cmp-mem/queue/id:000206,src:000096,op:havoc,rep:8,+dsf to queue
+This input is the new top rated entry for key 0x010208
+DSF update at key=0x010208, val=100992 (0x00018a80); new aggregate: 100992 (0x00018a80); earlier was: 81192 (0x00013d28)
+adding cmp-mem/queue/id:000207,src:000096,op:havoc,rep:32,+dsf to queue
+This input is the new top rated entry for key 0x010208
+DSF update at key=0x0034f2, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000208,src:000096,op:havoc,rep:16,+dsf to queue
+This input is the new top rated entry for key 0x0034f2
+adding cmp-mem/queue/id:000209,src:000096,op:havoc,rep:64 to queue
+DSF update at key=0x010208, val=131344 (0x00020110); new aggregate: 131344 (0x00020110); earlier was: 100992 (0x00018a80)
+adding cmp-mem/queue/id:000210,src:000096,op:havoc,rep:8,+dsf to queue
+This input is the new top rated entry for key 0x010208
+adding cmp-mem/queue/id:000211,src:000096,op:havoc,rep:64 to queue
+DSF update at key=0x0078a6, val=62 (0x0000003e); new aggregate: 62 (0x0000003e); earlier was: 61 (0x0000003d)
+adding cmp-mem/queue/id:000212,src:000096,op:havoc,rep:2,+dsf to queue
+This input is the new top rated entry for key 0x0078a6
+adding cmp-mem/queue/id:000213,src:000096,op:havoc,rep:16 to queue
+DSF update at key=0x010208, val=132576 (0x000205e0); new aggregate: 132576 (0x000205e0); earlier was: 131344 (0x00020110)
+adding cmp-mem/queue/id:000214,src:000096,op:havoc,rep:8,+dsf to queue
+This input is the new top rated entry for key 0x010208
+===============Fuzzing test case #98===============
+DSF update at key=0x00a30d, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000215,src:000098,op:arith8,pos:2,val:+35,+cov,+dsf to queue
+This input is the new top rated entry for key 0x00a30d
+===============Fuzzing test case #103===============
+DSF update at key=0x00f6e6, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000216,src:000103,op:flip1,pos:3,+dsf to queue
+This input is the new top rated entry for key 0x00f6e6
+DSF update at key=0x0098a5, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000217,src:000103,op:flip1,pos:3,+dsf to queue
+This input is the new top rated entry for key 0x0098a5
+DSF update at key=0x00f6e5, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000218,src:000103,op:flip1,pos:3,+cov,+dsf to queue
+This input is the new top rated entry for key 0x00f6e5
+DSF update at key=0x000c5b, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x004de6, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x0069bd, val=29 (0x0000001d); new aggregate: 29 (0x0000001d); earlier was: 0 (0x00000000)
+DSF update at key=0x0069be, val=26 (0x0000001a); new aggregate: 26 (0x0000001a); earlier was: 0 (0x00000000)
+DSF update at key=0x0092cd, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x00973a, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 0 (0x00000000)
+DSF update at key=0x00973b, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 0 (0x00000000)
+DSF update at key=0x00973c, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 0 (0x00000000)
+DSF update at key=0x00973d, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 0 (0x00000000)
+DSF update at key=0x0098a5, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+DSF update at key=0x00e157, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 0 (0x00000000)
+DSF update at key=0x00e158, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 0 (0x00000000)
+DSF update at key=0x00e159, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 0 (0x00000000)
+DSF update at key=0x00e15a, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 0 (0x00000000)
+adding cmp-mem/queue/id:000219,src:000103,op:flip2,pos:3,+cov,+dsf to queue
+This input is the new top rated entry for key 0x000c5b
+This input is the new top rated entry for key 0x004de6
+This input is the new top rated entry for key 0x0069bd
+This input is the new top rated entry for key 0x0069be
+This input is the new top rated entry for key 0x0092cd
+This input is the new top rated entry for key 0x00973a
+This input is the new top rated entry for key 0x00973b
+This input is the new top rated entry for key 0x00973c
+This input is the new top rated entry for key 0x00973d
+This input is the new top rated entry for key 0x0098a5
+This input is the new top rated entry for key 0x00e157
+This input is the new top rated entry for key 0x00e158
+This input is the new top rated entry for key 0x00e159
+This input is the new top rated entry for key 0x00e15a
+DSF update at key=0x00f6e7, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 5 (0x00000005)
+adding cmp-mem/queue/id:000220,src:000103,op:flip4,pos:3,+dsf to queue
+This input is the new top rated entry for key 0x00f6e7
+DSF update at key=0x00f6e8, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000221,src:000103,op:arith8,pos:3,val:+7,+dsf to queue
+This input is the new top rated entry for key 0x00f6e8
+DSF update at key=0x00f6e7, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000222,src:000103,op:arith8,pos:3,val:-21,+dsf to queue
+This input is the new top rated entry for key 0x00f6e7
+DSF update at key=0x00f6e8, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000223,src:000103,op:arith8,pos:3,val:-25,+dsf to queue
+This input is the new top rated entry for key 0x00f6e8
+adding cmp-mem/queue/id:000224,src:000103,op:havoc,rep:16 to queue
+===============Fuzzing test case #107===============
+===============Fuzzing test case #115===============
+adding cmp-mem/queue/id:000225,src:000115,op:flip1,pos:310 to queue
+DSF update at key=0x0022be, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000226,src:000115,op:flip2,pos:310,+dsf to queue
+This input is the new top rated entry for key 0x0022be
+DSF update at key=0x000ed3, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000227,src:000115,op:arith8,pos:310,val:-4,+cov,+dsf to queue
+This input is the new top rated entry for key 0x000ed3
+DSF update at key=0x0022be, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000228,src:000115,op:arith8,pos:310,val:-6,+dsf to queue
+This input is the new top rated entry for key 0x0022be
+===============Fuzzing test case #117===============
+===============Fuzzing test case #119===============
+(Test case is not favored)
+===============Fuzzing test case #121===============
+===============Fuzzing test case #123===============
+DSF update at key=0x0034f2, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+DSF update at key=0x009814, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x00e976, val=31 (0x0000001f); new aggregate: 31 (0x0000001f); earlier was: 0 (0x00000000)
+adding cmp-mem/queue/id:000229,src:000123,op:arith8,pos:484,val:+7,+cov,+dsf to queue
+This input is the new top rated entry for key 0x0034f2
+This input is the new top rated entry for key 0x009814
+This input is the new top rated entry for key 0x00e976
+===============Fuzzing test case #124===============
+===============Fuzzing test case #126===============
+===============Fuzzing test case #128===============
+===============Fuzzing test case #134===============
+adding cmp-mem/queue/id:000230,src:000134,op:havoc,rep:32 to queue
+===============Fuzzing test case #139===============
+===============Fuzzing test case #140===============
+===============Fuzzing test case #148===============
+===============Fuzzing test case #150===============
+===============Fuzzing test case #152===============
+DSF update at key=0x00a30e, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000231,src:000152,op:flip1,pos:3,+dsf to queue
+This input is the new top rated entry for key 0x00a30e
+adding cmp-mem/queue/id:000232,src:000152,op:flip1,pos:3 to queue
+DSF update at key=0x00a30f, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 5 (0x00000005)
+adding cmp-mem/queue/id:000233,src:000152,op:flip4,pos:3,+dsf to queue
+This input is the new top rated entry for key 0x00a30f
+DSF update at key=0x00a310, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000234,src:000152,op:arith8,pos:3,val:+7,+dsf to queue
+This input is the new top rated entry for key 0x00a310
+DSF update at key=0x00a30f, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000235,src:000152,op:arith8,pos:3,val:-21,+dsf to queue
+This input is the new top rated entry for key 0x00a30f
+DSF update at key=0x00a310, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000236,src:000152,op:arith8,pos:3,val:-25,+dsf to queue
+This input is the new top rated entry for key 0x00a310
+adding cmp-mem/queue/id:000237,src:000152,op:havoc,rep:2 to queue
+adding cmp-mem/queue/id:000238,src:000152,op:havoc,rep:2 to queue
+===============Fuzzing test case #160===============
+===============Fuzzing test case #165===============
+DSF update at key=0x00c447, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 4 (0x00000004)
+adding cmp-mem/queue/id:000239,src:000165,op:havoc,rep:16,+dsf to queue
+This input is the new top rated entry for key 0x00c447
+===============Fuzzing test case #166===============
+adding cmp-mem/queue/id:000240,src:000166,op:arith8,pos:1,val:-20 to queue
+adding cmp-mem/queue/id:000241,src:000166,op:havoc,rep:2 to queue
+DSF update at key=0x00edc8, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 3 (0x00000003)
+adding cmp-mem/queue/id:000242,src:000166,op:havoc,rep:4,+dsf to queue
+This input is the new top rated entry for key 0x00edc8
+adding cmp-mem/queue/id:000243,src:000166,op:havoc,rep:2 to queue
+adding cmp-mem/queue/id:000244,src:000166,op:havoc,rep:64 to queue
+adding cmp-mem/queue/id:000245,src:000166,op:havoc,rep:32 to queue
+adding cmp-mem/queue/id:000246,src:000166,op:havoc,rep:16 to queue
+adding cmp-mem/queue/id:000247,src:000166,op:havoc,rep:2 to queue
+===============Fuzzing test case #169===============
+DSF update at key=0x00edc8, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 5 (0x00000005)
+adding cmp-mem/queue/id:000248,src:000169,op:flip4,pos:2,+dsf to queue
+This input is the new top rated entry for key 0x00edc8
+===============Fuzzing test case #171===============
+DSF update at key=0x00d7ba, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 4 (0x00000004)
+adding cmp-mem/queue/id:000249,src:000171,op:havoc,rep:32,+dsf to queue
+This input is the new top rated entry for key 0x00d7ba
+DSF update at key=0x00d7ba, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 5 (0x00000005)
+adding cmp-mem/queue/id:000250,src:000171,op:havoc,rep:8,+dsf to queue
+This input is the new top rated entry for key 0x00d7ba
+===============Fuzzing test case #173===============
+DSF update at key=0x0025c2, val=34 (0x00000022); new aggregate: 34 (0x00000022); earlier was: 33 (0x00000021)
+adding cmp-mem/queue/id:000251,src:000173,op:flip1,pos:1,+dsf to queue
+This input is the new top rated entry for key 0x0025c2
+DSF update at key=0x006218, val=17 (0x00000011); new aggregate: 17 (0x00000011); earlier was: 16 (0x00000010)
+adding cmp-mem/queue/id:000252,src:000173,op:flip1,pos:1,+dsf to queue
+This input is the new top rated entry for key 0x006218
+DSF update at key=0x0025c2, val=35 (0x00000023); new aggregate: 35 (0x00000023); earlier was: 34 (0x00000022)
+DSF update at key=0x006218, val=20 (0x00000014); new aggregate: 20 (0x00000014); earlier was: 17 (0x00000011)
+adding cmp-mem/queue/id:000253,src:000173,op:flip1,pos:1,+dsf to queue
+This input is the new top rated entry for key 0x0025c2
+This input is the new top rated entry for key 0x006218
+DSF update at key=0x0025c2, val=36 (0x00000024); new aggregate: 36 (0x00000024); earlier was: 35 (0x00000023)
+adding cmp-mem/queue/id:000254,src:000173,op:flip1,pos:3,+dsf to queue
+This input is the new top rated entry for key 0x0025c2
+adding cmp-mem/queue/id:000255,src:000173,op:flip1,pos:4 to queue
+adding cmp-mem/queue/id:000256,src:000173,op:flip1,pos:5 to queue
+DSF update at key=0x0025c2, val=40 (0x00000028); new aggregate: 40 (0x00000028); earlier was: 36 (0x00000024)
+adding cmp-mem/queue/id:000257,src:000173,op:flip1,pos:5,+dsf to queue
+This input is the new top rated entry for key 0x0025c2
+adding cmp-mem/queue/id:000258,src:000173,op:flip1,pos:6 to queue
+adding cmp-mem/queue/id:000259,src:000173,op:flip1,pos:7 to queue
+adding cmp-mem/queue/id:000260,src:000173,op:flip1,pos:11,+cov to queue
+adding cmp-mem/queue/id:000261,src:000173,op:flip1,pos:12 to queue
+adding cmp-mem/queue/id:000262,src:000173,op:flip1,pos:13 to queue
+adding cmp-mem/queue/id:000263,src:000173,op:flip1,pos:14 to queue
+adding cmp-mem/queue/id:000264,src:000173,op:flip1,pos:15 to queue
+adding cmp-mem/queue/id:000265,src:000173,op:havoc,rep:64,+cov to queue
+===============Fuzzing test case #175===============
+DSF update at key=0x003dfc, val=25 (0x00000019); new aggregate: 25 (0x00000019); earlier was: 23 (0x00000017)
+adding cmp-mem/queue/id:000266,src:000175,op:flip1,pos:9,+dsf to queue
+This input is the new top rated entry for key 0x003dfc
+===============Fuzzing test case #192===============
+adding cmp-mem/queue/id:000267,src:000192,op:arith8,pos:6,val:+21 to queue
+adding cmp-mem/queue/id:000268,src:000192,op:arith8,pos:7,val:+21 to queue
+adding cmp-mem/queue/id:000269,src:000192,op:havoc,rep:2,+cov to queue
+adding cmp-mem/queue/id:000270,src:000192,op:havoc,rep:4 to queue
+adding cmp-mem/queue/id:000271,src:000192,op:havoc,rep:4 to queue
+adding cmp-mem/queue/id:000272,src:000192,op:havoc,rep:16 to queue
+adding cmp-mem/queue/id:000273,src:000192,op:havoc,rep:32 to queue
+===============Fuzzing test case #194===============
+(Test case is not favored)
+===============Fuzzing test case #196===============
+DSF update at key=0x00da74, val=45 (0x0000002d); new aggregate: 45 (0x0000002d); earlier was: 44 (0x0000002c)
+adding cmp-mem/queue/id:000274,src:000196,op:flip1,pos:12,+dsf to queue
+This input is the new top rated entry for key 0x00da74
+DSF update at key=0x00da74, val=47 (0x0000002f); new aggregate: 47 (0x0000002f); earlier was: 45 (0x0000002d)
+adding cmp-mem/queue/id:000275,src:000196,op:flip1,pos:14,+dsf to queue
+This input is the new top rated entry for key 0x00da74
+DSF update at key=0x00da74, val=48 (0x00000030); new aggregate: 48 (0x00000030); earlier was: 47 (0x0000002f)
+adding cmp-mem/queue/id:000276,src:000196,op:flip4,pos:13,+dsf to queue
+This input is the new top rated entry for key 0x00da74
+===============Fuzzing test case #202===============
+adding cmp-mem/queue/id:000277,src:000202,op:flip2,pos:67 to queue
+===============Fuzzing test case #212===============
+DSF update at key=0x010208, val=179888 (0x0002beb0); new aggregate: 179888 (0x0002beb0); earlier was: 132576 (0x000205e0)
+adding cmp-mem/queue/id:000278,src:000212,op:havoc,rep:4,+dsf to queue
+This input is the new top rated entry for key 0x010208
+===============Fuzzing test case #215===============
+===============Fuzzing test case #216===============
+===============Fuzzing test case #218===============
+===============Fuzzing test case #219===============
+adding cmp-mem/queue/id:000279,src:000219,op:flip1,pos:4,+cov to queue
+DSF update at key=0x00973b, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+DSF update at key=0x00973c, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 3 (0x00000003)
+DSF update at key=0x00973d, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 4 (0x00000004)
+adding cmp-mem/queue/id:000280,src:000219,op:flip1,pos:4,+dsf to queue
+This input is the new top rated entry for key 0x00973b
+This input is the new top rated entry for key 0x00973c
+This input is the new top rated entry for key 0x00973d
+DSF update at key=0x00973a, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000281,src:000219,op:flip1,pos:4,+cov,+dsf to queue
+This input is the new top rated entry for key 0x00973a
+DSF update at key=0x0069be, val=27 (0x0000001b); new aggregate: 27 (0x0000001b); earlier was: 26 (0x0000001a)
+adding cmp-mem/queue/id:000282,src:000219,op:flip1,pos:6,+dsf to queue
+This input is the new top rated entry for key 0x0069be
+DSF update at key=0x00e158, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+DSF update at key=0x00e159, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 3 (0x00000003)
+DSF update at key=0x00e15a, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 4 (0x00000004)
+adding cmp-mem/queue/id:000283,src:000219,op:flip1,pos:6,+dsf to queue
+This input is the new top rated entry for key 0x00e158
+This input is the new top rated entry for key 0x00e159
+This input is the new top rated entry for key 0x00e15a
+DSF update at key=0x0069bd, val=30 (0x0000001e); new aggregate: 30 (0x0000001e); earlier was: 29 (0x0000001d)
+adding cmp-mem/queue/id:000284,src:000219,op:flip1,pos:6,+dsf to queue
+This input is the new top rated entry for key 0x0069bd
+DSF update at key=0x00e157, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000285,src:000219,op:flip1,pos:6,+cov,+dsf to queue
+This input is the new top rated entry for key 0x00e157
+DSF update at key=0x00973c, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 4 (0x00000004)
+adding cmp-mem/queue/id:000286,src:000219,op:flip2,pos:4,+dsf to queue
+This input is the new top rated entry for key 0x00973c
+DSF update at key=0x00973d, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 5 (0x00000005)
+adding cmp-mem/queue/id:000287,src:000219,op:flip2,pos:4,+dsf to queue
+This input is the new top rated entry for key 0x00973d
+DSF update at key=0x0069be, val=28 (0x0000001c); new aggregate: 28 (0x0000001c); earlier was: 27 (0x0000001b)
+adding cmp-mem/queue/id:000288,src:000219,op:flip2,pos:6,+dsf to queue
+This input is the new top rated entry for key 0x0069be
+DSF update at key=0x0069bd, val=31 (0x0000001f); new aggregate: 31 (0x0000001f); earlier was: 30 (0x0000001e)
+DSF update at key=0x00e159, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 4 (0x00000004)
+adding cmp-mem/queue/id:000289,src:000219,op:flip2,pos:6,+dsf to queue
+This input is the new top rated entry for key 0x0069bd
+This input is the new top rated entry for key 0x00e159
+DSF update at key=0x00e15a, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 5 (0x00000005)
+adding cmp-mem/queue/id:000290,src:000219,op:flip2,pos:6,+dsf to queue
+This input is the new top rated entry for key 0x00e15a
+DSF update at key=0x00973c, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 5 (0x00000005)
+adding cmp-mem/queue/id:000291,src:000219,op:flip4,pos:4,+dsf to queue
+This input is the new top rated entry for key 0x00973c
+DSF update at key=0x0069be, val=30 (0x0000001e); new aggregate: 30 (0x0000001e); earlier was: 28 (0x0000001c)
+adding cmp-mem/queue/id:000292,src:000219,op:flip4,pos:6,+dsf to queue
+This input is the new top rated entry for key 0x0069be
+DSF update at key=0x00e159, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 5 (0x00000005)
+adding cmp-mem/queue/id:000293,src:000219,op:flip4,pos:6,+dsf to queue
+This input is the new top rated entry for key 0x00e159
+DSF update at key=0x00973d, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000294,src:000219,op:arith8,pos:4,val:+7,+dsf to queue
+This input is the new top rated entry for key 0x00973d
+DSF update at key=0x00973c, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000295,src:000219,op:arith8,pos:4,val:-21,+dsf to queue
+This input is the new top rated entry for key 0x00973c
+DSF update at key=0x00973d, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000296,src:000219,op:arith8,pos:4,val:-25,+dsf to queue
+This input is the new top rated entry for key 0x00973d
+DSF update at key=0x00e15a, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000297,src:000219,op:arith8,pos:6,val:+7,+dsf to queue
+This input is the new top rated entry for key 0x00e15a
+DSF update at key=0x00635f, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 0 (0x00000000)
+DSF update at key=0x0069bd, val=32 (0x00000020); new aggregate: 32 (0x00000020); earlier was: 31 (0x0000001f)
+DSF update at key=0x00b75a, val=2 (0x00000002); new aggregate: 2 (0x00000002); earlier was: 0 (0x00000000)
+DSF update at key=0x00b75b, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 0 (0x00000000)
+DSF update at key=0x00b75c, val=2 (0x00000002); new aggregate: 2 (0x00000002); earlier was: 0 (0x00000000)
+DSF update at key=0x00b75d, val=1 (0x00000001); new aggregate: 1 (0x00000001); earlier was: 0 (0x00000000)
+DSF update at key=0x00ebf7, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 0 (0x00000000)
+adding cmp-mem/queue/id:000298,src:000219,op:arith8,pos:6,val:+10,+cov,+dsf to queue
+This input is the new top rated entry for key 0x00635f
+This input is the new top rated entry for key 0x0069bd
+This input is the new top rated entry for key 0x00b75a
+This input is the new top rated entry for key 0x00b75b
+This input is the new top rated entry for key 0x00b75c
+This input is the new top rated entry for key 0x00b75d
+This input is the new top rated entry for key 0x00ebf7
+DSF update at key=0x00e159, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000299,src:000219,op:arith8,pos:6,val:-21,+dsf to queue
+This input is the new top rated entry for key 0x00e159
+DSF update at key=0x00e15a, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000300,src:000219,op:arith8,pos:6,val:-25,+dsf to queue
+This input is the new top rated entry for key 0x00e15a
+DSF update at key=0x0069be, val=31 (0x0000001f); new aggregate: 31 (0x0000001f); earlier was: 30 (0x0000001e)
+adding cmp-mem/queue/id:000301,src:000219,op:arith8,pos:6,val:+27,+dsf to queue
+This input is the new top rated entry for key 0x0069be
+adding cmp-mem/queue/id:000302,src:000219,op:havoc,rep:4 to queue
+adding cmp-mem/queue/id:000303,src:000219,op:havoc,rep:16 to queue
+adding cmp-mem/queue/id:000304,src:000219,op:havoc,rep:8 to queue
+adding cmp-mem/queue/id:000305,src:000219,op:havoc,rep:16 to queue
+DSF update at key=0x00b75a, val=5 (0x00000005); new aggregate: 5 (0x00000005); earlier was: 2 (0x00000002)
+DSF update at key=0x00b75b, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 3 (0x00000003)
+DSF update at key=0x00b75c, val=3 (0x00000003); new aggregate: 3 (0x00000003); earlier was: 2 (0x00000002)
+DSF update at key=0x00b75d, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 1 (0x00000001)
+DSF update at key=0x00ebf7, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 3 (0x00000003)
+adding cmp-mem/queue/id:000306,src:000219,op:havoc,rep:2,+dsf to queue
+This input is the new top rated entry for key 0x00b75a
+This input is the new top rated entry for key 0x00b75b
+This input is the new top rated entry for key 0x00b75c
+This input is the new top rated entry for key 0x00b75d
+This input is the new top rated entry for key 0x00ebf7
+adding cmp-mem/queue/id:000307,src:000219,op:havoc,rep:64 to queue
+===============Fuzzing test case #222===============
+===============Fuzzing test case #223===============
+===============Fuzzing test case #227===============
+adding cmp-mem/queue/id:000308,src:000227,op:flip1,pos:312,+cov to queue
+adding cmp-mem/queue/id:000309,src:000227,op:flip1,pos:313 to queue
+adding cmp-mem/queue/id:000310,src:000227,op:flip1,pos:314 to queue
+adding cmp-mem/queue/id:000311,src:000227,op:flip1,pos:315 to queue
+adding cmp-mem/queue/id:000312,src:000227,op:havoc,rep:2,+cov to queue
+adding cmp-mem/queue/id:000313,src:000227,op:havoc,rep:2 to queue
+adding cmp-mem/queue/id:000314,src:000227,op:havoc,rep:8 to queue
+adding cmp-mem/queue/id:000315,src:000227,op:havoc,rep:4,+cov to queue
+adding cmp-mem/queue/id:000316,src:000227,op:havoc,rep:4 to queue
+adding cmp-mem/queue/id:000317,src:000227,op:havoc,rep:4 to queue
+adding cmp-mem/queue/id:000318,src:000227,op:havoc,rep:2 to queue
+adding cmp-mem/queue/id:000319,src:000227,op:havoc,rep:2 to queue
+===============Fuzzing test case #228===============
+===============Fuzzing test case #229===============
+adding cmp-mem/queue/id:000320,src:000229,op:flip1,pos:393,+cov to queue
+===============Fuzzing test case #231===============
+===============Fuzzing test case #235===============
+adding cmp-mem/queue/id:000321,src:000235,op:havoc,rep:4 to queue
+adding cmp-mem/queue/id:000322,src:000235,op:havoc,rep:32 to queue
+adding cmp-mem/queue/id:000323,src:000235,op:havoc,rep:2 to queue
+adding cmp-mem/queue/id:000324,src:000235,op:havoc,rep:2 to queue
+adding cmp-mem/queue/id:000325,src:000235,op:havoc,rep:8 to queue
+adding cmp-mem/queue/id:000326,src:000235,op:havoc,rep:2 to queue
+===============Fuzzing test case #236===============
+===============Fuzzing test case #239===============
+DSF update at key=0x00c447, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 5 (0x00000005)
+adding cmp-mem/queue/id:000327,src:000239,op:flip1,pos:2,+dsf to queue
+This input is the new top rated entry for key 0x00c447
+DSF update at key=0x00c447, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 6 (0x00000006)
+adding cmp-mem/queue/id:000328,src:000239,op:flip2,pos:2,+dsf to queue
+This input is the new top rated entry for key 0x00c447
+DSF update at key=0x0049ce, val=6 (0x00000006); new aggregate: 6 (0x00000006); earlier was: 0 (0x00000000)
+DSF update at key=0x00c447, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000329,src:000239,op:arith8,pos:2,val:+11,+cov,+dsf to queue
+This input is the new top rated entry for key 0x0049ce
+This input is the new top rated entry for key 0x00c447
+===============Fuzzing test case #248===============
+DSF update at key=0x00e584, val=4 (0x00000004); new aggregate: 4 (0x00000004); earlier was: 0 (0x00000000)
+DSF update at key=0x00edc8, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000330,src:000248,op:flip1,pos:2,+cov,+dsf to queue
+This input is the new top rated entry for key 0x00e584
+This input is the new top rated entry for key 0x00edc8
+===============Fuzzing test case #250===============
+DSF update at key=0x0061d7, val=7 (0x00000007); new aggregate: 7 (0x00000007); earlier was: 0 (0x00000000)
+DSF update at key=0x00d7ba, val=8 (0x00000008); new aggregate: 8 (0x00000008); earlier was: 7 (0x00000007)
+adding cmp-mem/queue/id:000331,src:000250,op:flip1,pos:2,+cov,+dsf to queue
+This input is the new top rated entry for key 0x0061d7
+This input is the new top rated entry for key 0x00d7ba
+===============Fuzzing test case #253===============
+DSF update at key=0x006218, val=22 (0x00000016); new aggregate: 22 (0x00000016); earlier was: 20 (0x00000014)
+adding cmp-mem/queue/id:000332,src:000253,op:flip1,pos:2,+dsf to queue
+This input is the new top rated entry for key 0x006218
+DSF update at key=0x006218, val=24 (0x00000018); new aggregate: 24 (0x00000018); earlier was: 22 (0x00000016)
+adding cmp-mem/queue/id:000333,src:000253,op:flip1,pos:3,+dsf to queue
+This input is the new top rated entry for key 0x006218
+===============Fuzzing test case #257===============
+DSF update at key=0x0025c2, val=41 (0x00000029); new aggregate: 41 (0x00000029); earlier was: 40 (0x00000028)
+adding cmp-mem/queue/id:000334,src:000257,op:flip1,pos:9,+dsf to queue
+This input is the new top rated entry for key 0x0025c2
+DSF update at key=0x0025c2, val=43 (0x0000002b); new aggregate: 43 (0x0000002b); earlier was: 41 (0x00000029)
+adding cmp-mem/queue/id:000335,src:000257,op:flip1,pos:10,+dsf to queue
+This input is the new top rated entry for key 0x0025c2
+DSF update at key=0x0025c2, val=44 (0x0000002c); new aggregate: 44 (0x0000002c); earlier was: 43 (0x0000002b)
+adding cmp-mem/queue/id:000336,src:000257,op:flip1,pos:11,+dsf to queue
+This input is the new top rated entry for key 0x0025c2
+DSF update at key=0x0025c2, val=45 (0x0000002d); new aggregate: 45 (0x0000002d); earlier was: 44 (0x0000002c)
+adding cmp-mem/queue/id:000337,src:000257,op:flip1,pos:12,+dsf to queue
+This input is the new top rated entry for key 0x0025c2
+DSF update at key=0x0025c2, val=46 (0x0000002e); new aggregate: 46 (0x0000002e); earlier was: 45 (0x0000002d)
+adding cmp-mem/queue/id:000338,src:000257,op:arith8,pos:12,val:+1,+dsf to queue
+This input is the new top rated entry for key 0x0025c2
+DSF update at key=0x0025c2, val=48 (0x00000030); new aggregate: 48 (0x00000030); earlier was: 46 (0x0000002e)
+adding cmp-mem/queue/id:000339,src:000257,op:arith8,pos:12,val:+6,+dsf to queue
+This input is the new top rated entry for key 0x0025c2
+===============Fuzzing test case #266===============
+===============Fuzzing test case #276===============
+DSF update at key=0x00da74, val=50 (0x00000032); new aggregate: 50 (0x00000032); earlier was: 48 (0x00000030)
+adding cmp-mem/queue/id:000340,src:000276,op:flip1,pos:14,+dsf to queue
+This input is the new top rated entry for key 0x00da74
+===============Fuzzing test case #278===============
